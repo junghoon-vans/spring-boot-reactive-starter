@@ -1,10 +1,9 @@
-### reactive-starter ###
-reactive-starter/HELP.md
-reactive-starter/.gradle
-reactive-starter/build/
-reactive-starter/gradle/wrapper/gradle-wrapper.jar
-reactive-starter/src/main/**/build/
-reactive-starter/src/test/**/build/
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
 
 ### MAC OS ###
 .DS_Store

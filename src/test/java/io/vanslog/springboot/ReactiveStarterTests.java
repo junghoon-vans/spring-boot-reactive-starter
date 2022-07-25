@@ -1,10 +1,10 @@
-package io.vanslog.springbootreactivestarter;
+package io.vanslog.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootReactiveStarterApplicationTests {
+class ReactiveStarterTests {
 
 	@Test
 	void contextLoads() {
